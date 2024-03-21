@@ -5,4 +5,4 @@ if __name__ == "__main__":
         if i[0] == '_' and i[1] == '_':
             continue
         else:
-            print("{}".format(i));
+            print("{}".format(i))
